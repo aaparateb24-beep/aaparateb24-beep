@@ -1,4 +1,4 @@
-# Hi, I'm Aarya 👋
+# Hi, I'm Aarya Parate 👋
 
 🎓 Computer Engineering Student  
 💻 Interested in AI/ML + Software Development  
