@@ -20,6 +20,5 @@
 ---
 
 ## 📈 Goals
-- SSOC 2026  
 - Contribute to Open Source  
 - Build real-world projects  
