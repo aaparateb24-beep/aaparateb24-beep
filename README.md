@@ -1,8 +1,8 @@
 # Hi, I'm Aarya Parate 👋
 
 🎓 Computer Engineering Student  
-💻 Interested in AI/ML + Software Development  
-🚀 Currently building: Community Engineering Project  
+ Interested in AI/ML + Software Development  
+ Currently building: Community Engineering Project  
 
 ---
 
@@ -14,8 +14,8 @@
 ---
 
 ## 📌 Projects
-- 📄 Community Engineering Project (in progress)
-- 🚀 More coming soon...
+- Community Engineering Project (in progress)
+- More coming soon...
 
 ---
 
