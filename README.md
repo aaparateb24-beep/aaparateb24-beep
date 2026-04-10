@@ -1,6 +1,6 @@
-# Hi, I'm Aarya Parate 👋
+# Hi, I'm Aarya Parate 
 
-🎓 Computer Engineering Student  
+🎓 Computer Engineering Student at VJTI, Mumbai
  Interested in AI/ML + Software Development  
  Currently building: Community Engineering Project  
 
