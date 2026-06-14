@@ -1,6 +1,6 @@
 # Hi, I'm Aarya Parate 
 
-🎓 Computer Engineering Student at VJTI, Mumbai
+ Computer Engineering Student at VJTI, Mumbai
  Interested in AI/ML + Software Development  
  Currently building: Community Engineering Project  
 
@@ -14,8 +14,8 @@
 ---
 
 ## 📌 Projects
-- Community Engineering Project (in progress)
-- More coming soon...
+- Community Engineering Project
+- More coming (AI -Driven Interview Platform)
 
 ---
 
